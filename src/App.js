@@ -14,7 +14,7 @@ function App() {
 
   const fetchMessage = async () => {
     try {
-      const response = await axios.get("https://ldg4xqsocj.execute-api.eu-west-1.amazonaws.com/Prod/hello/", {
+      const response = await axios.get("https://pu0pudrwd6.execute-api.eu-west-1.amazonaws.com/Prod/hello/", {
         headers: {
 
         },
